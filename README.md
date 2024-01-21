@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative ideas.
 - 📫 How to reach me: email sam93 dot od at gmail dot com.
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AyodejiO/AyodejiO/blob/master/devcard.svg" width="400" alt="Sam O's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AyodejiO/AyodejiO/blob/main/devcard.svg" width="400" alt="Sam O's Dev Card"/></a>
 
 <!---
 AyodejiO/AyodejiO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
